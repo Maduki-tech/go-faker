@@ -1,0 +1,4 @@
+package creator
+
+func Create() {
+}
